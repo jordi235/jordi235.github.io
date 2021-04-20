@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="Jordan Nowicki">
+        <meta name="copyright" content="(c) 2021 Jordan Nowicki">
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <script src="skrypty.js"></script>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="container">
+            <div id="menu">
+                <div id="menu-type" onclick="typeChange()" class="default-cursor">
+                    Podstawowe
+                </div>
+                <div id="wzory">
+                    <div id="wzor1" class="wzor" onclick="gestosc()">Wzór na gęstość</div>
+                    <div id="wzor2" class="wzor" onclick="sila()">Wzór na siłę</div>
+                    <div id="wzor3" class="wzor" onclick="praca()">Wzór na pracę</div>
+                    <div id="wzor4" class="wzor" onclick="ped()">Wzór na pęd</div>
+                    <div id="wzor5" class="wzor" onclick="energPoten()">Wzór na energię potencjalną</div>
+                </div>
+                <div id="powrot" class="wzor wzor2" onclick="start()">Powrót na stronę startową</div>
+            </div>
+            <div id="wzor">
+                Dzięki tej stronie będziesz w stanie w prosty sposób obliczyć wzory fizyczne których zapewne tak bardzo nie lubiłeś na fizyce!<br>
+                Po lewej stronie znajduje się zakładka ze wzorami, aby zobaczyć 3 kolejne, bardziej zaawansowane wzory naciśnij przycisk 'Standardowe'<br>
+                Jak używać kalkulatora wzorów?<br>
+                Wybierz wzór, później tryb i wpisz dane. Kliknij 'Oblicz' i twój wynik jest gotowy!<br>
+                Większość wzorów posiada różne tryby: obliczanie tego samego, lecz przekształconego wzoru.
+                
+                <div style="margin-top: 300px;">Jeśli nie jesteś pewien jak używaćtej strony<div style="color: blue; cursor: pointer;" onclick="poradnik()">KLIKNIJ TU</div></div>
+            </div>
+        </div>
+    </body>
