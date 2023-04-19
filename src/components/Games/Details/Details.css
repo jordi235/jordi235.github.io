@@ -28,7 +28,7 @@
     cursor: pointer;
 }  
 .MuiRating-iconEmpty {
-    color: rgba(60,52,132,0.8);
+    color: rgba(60,52,132,0.8) !important;
 }
   
 .SRLImage {
