@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e466051.css",
+    "main.css": "/static/css/main.ae47c386.css",
     "main.js": "/static/js/main.cd7988e8.js",
     "static/media/background-image.jpg": "/static/media/background-image.256b2c7cd542f08eabb0.jpg",
     "static/media/xbox360.png": "/static/media/xbox360.9829f23426ebb78e9443.png",
@@ -26,11 +26,11 @@
     "index.html": "/index.html",
     "static/media/1.svg": "/static/media/1.97ae75576d7a2f5e9933.svg",
     "static/media/7.svg": "/static/media/7.861ec5b0c0ac79c50ca4.svg",
-    "main.7e466051.css.map": "/static/css/main.7e466051.css.map",
+    "main.ae47c386.css.map": "/static/css/main.ae47c386.css.map",
     "main.cd7988e8.js.map": "/static/js/main.cd7988e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e466051.css",
+    "static/css/main.ae47c386.css",
     "static/js/main.cd7988e8.js"
   ]
 }
