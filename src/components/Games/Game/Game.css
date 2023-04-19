@@ -1,6 +1,5 @@
 .card {
     background-color: rgba(60,52,132,0.8);
-
     display: flex;
     transition: box-shadow 0.2s ease-in-out;
     
