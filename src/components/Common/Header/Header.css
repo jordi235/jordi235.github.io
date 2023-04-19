@@ -1,0 +1,31 @@
+.MuiAppBar-colorPrimary {
+    background-color: rgba(41, 37, 80, 0.8)!important;  
+  }
+  
+.navbar {
+    margin-bottom: 1.5rem;
+}
+.navbar__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.navbar__title {
+    margin: 0.5rem 0;
+    font-weight: bold;
+}
+.navbar__title-link {
+    text-decoration: none;
+}
+.navbar__item {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 0.2rem 0;
+    display: inline-block;
+    transition: background-color 0.3s ease-in-out;
+}
+.navbar__item:hover {
+    background-color: rgba(60,52,132,0.8);
+}

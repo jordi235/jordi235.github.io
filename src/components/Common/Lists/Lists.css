@@ -1,0 +1,18 @@
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.list--mt {
+    margin-top: 1rem;
+}
+.list__item {
+    padding-right: 0.5rem;
+}
+.list__store-logo {
+    height: 50px;
+}  
+  
