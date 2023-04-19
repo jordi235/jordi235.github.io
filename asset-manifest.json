@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76c12cd4.css",
+    "main.js": "/static/js/main.cd7988e8.js",
+    "static/media/background-image.jpg": "/static/media/background-image.256b2c7cd542f08eabb0.jpg",
+    "static/media/xbox360.png": "/static/media/xbox360.9829f23426ebb78e9443.png",
+    "static/media/steam.png": "/static/media/steam.1d4c513bdb055f84643a.png",
+    "static/media/playstation-store.png": "/static/media/playstation-store.1860ff24a2cfe933783a.png",
+    "static/media/google-play.png": "/static/media/google-play.c196655d8a8b42127929.png",
+    "static/media/gog.png": "/static/media/gog.d73f70ed2dea42491840.png",
+    "static/media/epic-games.png": "/static/media/epic-games.52e43b84e15afe6afbd1.png",
+    "static/media/apple-appstore.png": "/static/media/apple-appstore.2294de9979f023dd9751.png",
+    "static/media/6.svg": "/static/media/6.d9c8684bf22f2e969a39.svg",
+    "static/media/xbox-store.png": "/static/media/xbox-store.837d6842438c23ef98fc.png",
+    "static/media/12.svg": "/static/media/12.9992ae7515df9a113613.svg",
+    "static/media/14.svg": "/static/media/14.a6ee27dec83828861705.svg",
+    "static/media/10.svg": "/static/media/10.d31439c8a2e44ded4978.svg",
+    "static/media/13.svg": "/static/media/13.07d2250e09a38de9b4dc.svg",
+    "static/media/8.svg": "/static/media/8.0acb74da2f14e7321d54.svg",
+    "static/media/9.svg": "/static/media/9.317c5db1e3a4f97749e7.svg",
+    "static/media/4.svg": "/static/media/4.8234891a69edee2dd7f1.svg",
+    "static/media/3.svg": "/static/media/3.2bef9b6a5201797b450d.svg",
+    "static/media/11.svg": "/static/media/11.6fe6b4cd38f155f96ecc.svg",
+    "static/media/5.svg": "/static/media/5.480a55ae1dd1cbf5b392.svg",
+    "static/media/2.svg": "/static/media/2.fc20305d80fc95a920b0.svg",
+    "index.html": "/index.html",
+    "static/media/1.svg": "/static/media/1.97ae75576d7a2f5e9933.svg",
+    "static/media/7.svg": "/static/media/7.861ec5b0c0ac79c50ca4.svg",
+    "main.76c12cd4.css.map": "/static/css/main.76c12cd4.css.map",
+    "main.cd7988e8.js.map": "/static/js/main.cd7988e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c12cd4.css",
+    "static/js/main.cd7988e8.js"
+  ]
+}
