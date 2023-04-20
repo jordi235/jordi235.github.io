@@ -35,7 +35,7 @@ const SearchBar = ({validateQGame}) => {
     <CssTextField
       type="text"
       id="q_game"
-      label="Search for a game"
+      label="Wyszukaj gry"
       margin="normal"
       variant="outlined"
       style={{width: '100%'}}

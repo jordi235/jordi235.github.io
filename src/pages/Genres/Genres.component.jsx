@@ -8,7 +8,7 @@ const Genre = () => {
   const {doneFetchGenres, genres} = useContext(GenresContext);
   return ( 
     <Fragment>
-      <h1 className="text-center">Genres</h1>
+      <h1 className="text-center">Gatunki</h1>
       {
         doneFetchGenres && genres ?
         <Grid container spacing={2}>

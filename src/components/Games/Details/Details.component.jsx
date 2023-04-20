@@ -53,7 +53,7 @@ const Details = ({
           {clip ? (
             <video width="100%" height="350px" controls autoPlay muted>
               <source src={clip.clip} type="video/mp4" />
-              Your browser does not support the video tag.
+              Twoja przeglądarka tego nie wspiera.
             </video>
           ) : null}
           <SRLWrapper>

@@ -8,7 +8,7 @@ const Platforms = () => {
   const {doneFetchPlatforms, platforms} = useContext(PlatformsContext);
   return ( 
     <Fragment>
-      <h1 className="text-center">Platforms</h1>
+      <h1 className="text-center">Platfromy</h1>
       {
         doneFetchPlatforms && platforms ?
         <Grid container spacing={2}>

@@ -8,7 +8,7 @@ const Publishers = () => {
   const {doneFetchPublishers, publishers} = useContext(PublishersContext);
   return ( 
     <Fragment>
-      <h1 className="text-center">Publishers</h1>
+      <h1 className="text-center">Wydawcy</h1>
       {
         doneFetchPublishers && publishers ?
         <Grid container spacing={2}>

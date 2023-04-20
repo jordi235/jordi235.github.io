@@ -17,7 +17,7 @@ const CollectionCard = ({ items, link }) => {
               <Card style={{backgroundColor: '#353535', background:`linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${image_background}) center center/cover no-repeat`}} className="collection-card">
                 <CardContent className="text-white">
                   <h2>{name}</h2>
-                  <TextList collection title="Some games:" items={games} />
+                  <TextList collection title="Niektóre gry:" items={games} />
                 </CardContent>
               </Card>
             </Link>
