@@ -32,7 +32,7 @@ const Details = ({
         <Grid item sm={12} md={6}>
           <h1 className="gdetails__title">{name}</h1>
           <p className="gdetails__released">
-            <span className="font-weight-bold">Release date:</span> {released}
+            <span className="font-weight-bold">Data premiery:</span> {released}
           </p>
           <Grid container spacing={1}>
             <Grid item xs={12} sm={6}>
