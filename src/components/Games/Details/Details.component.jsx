@@ -36,17 +36,17 @@ const Details = ({
           </p>
           <Grid container spacing={1}>
             <Grid item xs={12} sm={6}>
-              <TextList title="Publisher/s" items={publishers} />
-              <TextList title="Genre/s" items={genres} />
-              <TextList title="Platform/s" platforms items={platforms} />
+              <TextList title="Wydawca/y" items={publishers} />
+              <TextList title="Gatunek/i" items={genres} />
+              <TextList title="Pltfroma/y" platforms items={platforms} />
             </Grid>
             <Grid item xs={12} sm={6}>
               <StoresList stores={stores} />
-              <Subtitle text="Rating" />
+              <Subtitle text="Ocena" />
               <Rating name="read-only" value={rating} readOnly />
             </Grid>
           </Grid>
-          <Subtitle text="Description" />
+          <Subtitle text="Opis" />
           <div className="gdetails__description">{parse(description)}</div>
         </Grid>
         <Grid item sm={12} md={6}>
